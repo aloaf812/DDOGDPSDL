@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user":"ted",
+            "link":"https://www.youtube.com/watch?v=IvPDx5Uu_lY",
+            "percent":100,
+            "hz":165
+        }
     ]
 }
