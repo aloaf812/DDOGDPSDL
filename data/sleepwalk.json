@@ -13,6 +13,12 @@
             "link":"https://www.youtube.com/watch?v=021N1sf4gPI",
             "percent":100,
             "hz":360
-         }
+         },
+         {
+            "user":"jrpresley08",
+             "link":"https://www.youtube.com/watch?v=GpP-ybFdM7c",
+             "percent":100,
+             "hz":240
+        }
     ]
 }
