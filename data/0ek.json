@@ -37,6 +37,18 @@
             "link":"https://www.youtube.com/watch?v=-bNH01amLfU",
             "percent":100,
             "hz":240
+        },
+        {
+            "user":"ncz",
+            "link":"https://youtu.be/3R50PyqJgB4",
+            "percent":100,
+            "hz":240
+        },
+        {
+            "user":"Lobotomizations",
+            "link":"https://youtu.be/aCsAwSVf4-s",
+            "percent":100,
+            "hz":60
         }
     ]
 }
