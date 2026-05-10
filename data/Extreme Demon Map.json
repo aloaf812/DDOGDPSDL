@@ -3,9 +3,16 @@
     "name": "Extreme Demon Map",
     "author": "Diamond",
     "creators": ["Diamond"],
-    "verifier": "Turboflash",
-    "verification": "https://youtu.be/AdtLw9t1DYU?si=I7PaHYVcSqXGDSgZ",
+    "verifier": "BABAGD",
+    "verification": "https://youtu.be/JYYICA-uZM4?si=xh8jtCI0oLMWYzkb",
     "percentToQualify": "100",
     "records": [
+    
+      {
+            "user":"Turboflash",
+            "link":"https://youtu.be/AdtLw9t1DYU?si=I7PaHYVcSqXGDSgZ",
+            "percent":100,
+            "hz":240
+         }
     ]
 }
