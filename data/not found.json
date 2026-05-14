@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/0X5RVgtOuxI",
     "percentToQualify": "100",
     "records": [
+      {
+            "user": "TurboFlash",
+            "link": "https://youtu.be/-ugYqh8obJ0",
+            "percent": 100,
+            "hz": 60
+      }
     ]
 }
