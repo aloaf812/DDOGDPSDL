@@ -25,6 +25,12 @@
             "link":"https://www.youtube.com/watch?v=xK_Y-NqeVdY",
             "percent":100,
             "hz":180
+         },
+         {
+            "user":"Zyvran",
+            "link":"https://www.youtube.com/watch?v=YmgHs9aZH9g",
+            "percent":100,
+            "hz":240
          }
     ]
 }

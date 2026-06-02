@@ -16,13 +16,13 @@
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/ng5q5P1JN_k",
+            "link":"https://www.youtube.com/watch?v=ng5q5P1JN_k",
             "percent":100,
             "hz":240
          },
          {
             "user":"Hamburger",
-            "link":"https://youtu.be/T5sgJ_V2AkQ",
+            "link":"https://www.youtube.com/watch?v=T5sgJ_V2AkQ",
             "percent":100,
             "hz":144
          },
@@ -37,6 +37,12 @@
             "link":"https://youtu.be/69s1c8Jrb2Q",
             "percent":100,
             "hz":60
+         },
+         {
+            "user":"TurboFlash",
+            "link":"https://www.youtube.com/watch?v=qGthS4HDKUQ",
+            "percent":100,
+            "hz":360
          }
     ]
 }
