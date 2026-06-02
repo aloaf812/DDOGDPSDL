@@ -130,10 +130,7 @@ export default {
                         Do not use easy modes. Only a record of the unmodified level qualifies.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we do not accept any records.
-                    </p>
-                    <p>
-                        Every level that is a reupload won't be added to the top 10, this is to avoid random players reuploading their levels and getting them into the top 10. This is also made to avoid top players from main servers to reupload a level and verify it.
+                        Reuploads cannot be placed in the top 10 at all. This is to prevent main-list levels making our list uneven, and to stop main-list players from purposely reuploading levels that are much harder than anything else currently on our list just for the sake of "having the top 1" (for example)
                     </p>
                 </div>
             </div>
