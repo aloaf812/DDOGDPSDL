@@ -4,7 +4,7 @@
     "author": "Minotaur256",
     "creators": ["Minotaur256"],
     "verifier": "Minotaur256",
-    "verification": "https://youtu.be/NuGgKJ5NV0g",
+    "verification": "https://www.youtube.com/watch?v=NuGgKJ5NV0g",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
@@ -16,13 +16,13 @@
          },
          {
             "user":"MirrorGD",
-            "link":"https://youtu.be/Q_oiulnTBNY",
+            "link":"https://www.youtube.com/watch?v=Q_oiulnTBNY",
             "percent":100,
             "hz":240
         },
         {
             "user":"TurboFlash",
-            "link":"https://youtu.be/KGkH3TIj9aU",
+            "link":"https://www.youtube.com/watch?v=KGkH3TIj9aU",
             "percent":100,
             "hz":60
         },

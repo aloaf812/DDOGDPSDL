@@ -4,7 +4,7 @@
     "author": "nawok",
     "creators": ["nawok"],
     "verifier": "TurboFlash",
-    "verification": "https://youtu.be/hs9GQgbj2ts",
+    "verification": "https://www.youtube.com/watch?v=hs9GQgbj2ts",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
@@ -16,7 +16,7 @@
          },
          {
             "user":"Vergit",
-            "link":"https://youtu.be/2pYbvb3Ct5w",
+            "link":"https://www.youtube.com/watch?v=2pYbvb3Ct5w",
             "percent":100,
             "hz":240
          },
@@ -28,7 +28,7 @@
          },
          {
             "user":"xuma",
-            "link":"https://youtu.be/0kMaoIcQD7U",
+            "link":"https://www.youtube.com/watch?v=0kMaoIcQD7U",
             "percent":100,
             "hz":180
         },
@@ -52,7 +52,7 @@
          },
          {
             "user":"Ralsei",
-            "link":"https://youtu.be/-lpJrYMwPT",
+            "link":"https://www.youtube.com/watch?v=-lpJrYMwPT",
             "percent":100,
             "hz":60
          },
@@ -70,19 +70,19 @@
          },
          {
             "user":"Blizzard",
-            "link":"https://youtu.be/uHfqF1dxj0Y",
+            "link":"https://www.youtube.com/watch?v=uHfqF1dxj0Y",
             "percent":100,
             "hz":144
          },
          {
             "user":"Veepo",
-            "link":"https://youtu.be/V0CthuvU0D4",
+            "link":"https://www.youtube.com/watch?v=V0CthuvU0D4",
             "percent":100,
             "hz":240
          },
          {
             "user":"LTG",
-            "link":"https://youtu.be/NlZDUwRurDA",
+            "link":"https://www.youtube.com/watch?v=NlZDUwRurDA",
             "percent":100,
             "hz":165
          },
@@ -94,7 +94,7 @@
          },
          {
             "user":"Menda",
-            "link":"https://youtu.be/CT28-02WI6g",
+            "link":"https://www.youtube.com/watch?v=CT28-02WI6g",
             "percent":100,
             "hz":60,
             "mobile":true
@@ -107,7 +107,7 @@
          },
          {
             "user":"DenDen",
-            "link":"https://youtu.be/ZKRn79qsq8U",
+            "link":"https://www.youtube.com/watch?v=ZKRn79qsq8U",
             "percent":100,
             "hz":240
         }

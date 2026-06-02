@@ -4,25 +4,25 @@
     "author": "tostapanez",
     "creators": ["tostapanez"],
     "verifier": "tostapanez",
-    "verification": "https://youtu.be/kFVEsNjC3kU",
+    "verification": "https://www.youtube.com/watch?v=kFVEsNjC3kU",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
         {
             "user":"TurboFlash",
-            "link":"https://youtu.be/TAbVFJrc2Xg",
+            "link":"https://www.youtube.com/watch?v=TAbVFJrc2Xg",
             "percent":100,
             "hz":60
         },
         {
             "user":"axel",
-            "link":"https://youtu.be/GppDhB3KdcA",
+            "link":"https://www.youtube.com/watch?v=GppDhB3KdcA",
             "percent":100,
             "hz":240
         },
         {
             "user":"MirrorGD",
-            "link":"https://youtu.be/PtIFtSmj6v0",
+            "link":"https://www.youtube.com/watch?v=PtIFtSmj6v0",
             "percent":100,
             "hz":240
         },
@@ -40,7 +40,7 @@
         },
         {
             "user":"BABAGD",
-            "link":"https://youtu.be/ng5q5P1JN_k",
+            "link":"https://www.youtube.com/watch?v=ng5q5P1JN_k",
             "percent":100,
             "hz":240
         },
@@ -52,7 +52,7 @@
         },
         {
             "user":"Emerald",
-            "link":"https://youtu.be/Fyka8bwCE-E",
+            "link":"https://www.youtube.com/watch?v=Fyka8bwCE-E",
             "percent":100,
             "hz":240
         }

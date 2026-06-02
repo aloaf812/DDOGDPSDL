@@ -4,13 +4,13 @@
     "author": "savados",
     "creators": ["savados, tuig"],
     "verifier": "savados",
-    "verification": "https://youtu.be/PmFFSdDeZHA",
+    "verification": "https://www.youtube.com/watch?v=PmFFSdDeZHA",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
               {
             "user":"TurboFlash",
-            "link":"https://youtu.be/cfN2JbOIwcw",
+            "link":"https://www.youtube.com/watch?v=cfN2JbOIwcw",
             "percent":100,
             "hz":60
          },

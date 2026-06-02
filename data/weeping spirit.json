@@ -4,7 +4,7 @@
     "author": "Space34",
     "creators": ["Space34"],
     "verifier": "ted",
-    "verification": "https://youtu.be/RCnRUkVSz5w",
+    "verification": "https://www.youtube.com/watch?v=RCnRUkVSz5w",
     "percentToQualify": "100",
     "records": [
         {
@@ -15,13 +15,13 @@
         },
         {
             "user":"Menda",
-            "link":"https://youtu.be/3fuEWBqmTZw?si=r3jMmy_IZMSsuw6o&t=39",
+            "link":"https://www.youtube.com/watch?v=3fuEWBqmTZw&t=39",
             "percent":100,
             "hz":180
         },
         {
             "user":"TurboFlash",
-            "link":"https://youtu.be/izzrG0maDJw",
+            "link":"https://www.youtube.com/watch?v=izzrG0maDJw",
             "percent":100,
             "hz":240
          }

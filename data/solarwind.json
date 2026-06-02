@@ -4,31 +4,31 @@
     "author": "Kxi",
     "creators": ["Kxi"],
     "verifier": "Kxi",
-    "verification": "https://youtu.be/zpuEXChfy-k",
+    "verification": "https://www.youtube.com/watch?v=zpuEXChfy-k",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
             "user":"tostapanez",
-            "link":"https://youtu.be/CBtL5OapMV4",
+            "link":"https://www.youtube.com/watch?v=CBtL5OapMV4",
             "percent":100,
             "hz":144
          },
          {
             "user":"Semify",
-            "link":"https://youtu.be/DDi6Sx9YVCI",
+            "link":"https://www.youtube.com/watch?v=DDi6Sx9YVCI",
             "percent":100,
             "hz":240
          },
          {
             "user":"games",
-            "link":"https://youtu.be/FkkWVXi21EM",
+            "link":"https://www.youtube.com/watch?v=FkkWVXi21EM",
             "percent":100,
             "hz":144
          },
          {
             "user":"nik14k",
-            "link":"https://youtu.be/m4xJC-TmSOg?feature=shared",
+            "link":"https://www.youtube.com/watch?v=m4xJC-TmSOg?feature=shared",
             "percent":100,
             "hz":240
          },
@@ -40,7 +40,7 @@
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/e2SJ5MiJDrY",
+            "link":"https://www.youtube.com/watch?v=e2SJ5MiJDrY",
             "percent":100,
             "hz":240
          },
@@ -52,7 +52,7 @@
          },
          {
             "user":"TurboFlash",
-            "link":"https://youtu.be/jc_oqTZFq4c",
+            "link":"https://www.youtube.com/watch?v=jc_oqTZFq4c",
             "percent":100,
             "hz":240
          }

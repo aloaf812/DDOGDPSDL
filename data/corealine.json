@@ -4,13 +4,13 @@
     "author": "lightingflash",
     "creators": ["lightingflash"],
     "verifier": "Semify",
-    "verification": "https://youtu.be/gAmxW5n6H0w",
+    "verification": "https://www.youtube.com/watch?v=gAmxW5n6H0w",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
             "user":"games",
-            "link":"https://youtu.be/eJAmvrcLVv4",
+            "link":"https://www.youtube.com/watch?v=eJAmvrcLVv4",
             "percent":100,
             "hz":144
         },
@@ -22,13 +22,13 @@
         },
         {
             "user":"turboflash",
-            "link":"https://youtu.be/Rbxsg9K_u1w",
+            "link":"https://www.youtube.com/watch?v=Rbxsg9K_u1w",
             "percent":100,
             "hz":60
         },
         {
             "user":"Minotaur256",
-            "link":"https://youtu.be/Sasfi6pCT34",
+            "link":"https://www.youtube.com/watch?v=Sasfi6pCT34",
             "percent":100,
             "hz":240
         }

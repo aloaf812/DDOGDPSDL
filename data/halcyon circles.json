@@ -4,7 +4,7 @@
     "author": "nsttech",
     "creators": ["nsttech"],
     "verifier": "TurboFlash",
-    "verification": "https://youtu.be/OGaqrWuBQ7A",
+    "verification": "https://www.youtube.com/watch?v=OGaqrWuBQ7A",
     "percentToQualify": "100",
     "records": [
          {
@@ -15,7 +15,7 @@
          },
          {
             "user":"nsttech",
-            "link":"https://www.youtube.com/watch?v=JKoDBa-kO4w&feature=youtu.be",
+            "link":"https://www.youtube.com/watch?v=JKoDBa-kO4w",
             "percent":100,
             "hz":165
         },
@@ -27,13 +27,13 @@
          },
          {
             "user":"kdawguwu610ohye",
-             "link":"https://youtu.be/SRAK3JgvI3I",
+             "link":"https://www.youtube.com/watch?v=SRAK3JgvI3I",
              "percent":100,
              "hz":360
         },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/ldTDiPcfEdo?si=CBH0XtSzVQ7e36LA",
+            "link":"https://www.youtube.com/watch?v=ldTDiPcfEdo",
             "percent":100,
             "hz":240
          }

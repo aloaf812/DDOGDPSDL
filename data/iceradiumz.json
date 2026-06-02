@@ -10,7 +10,7 @@
     "records": [
         {
             "user":"Birbyn",
-            "link":"https://youtu.be/aoEdq_H2hSg",
+            "link":"https://www.youtube.com/watch?v=aoEdq_H2hSg",
             "percent":100,
             "hz":165
          },
@@ -28,13 +28,13 @@
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/vhu1_udQ4ys",
+            "link":"https://www.youtube.com/watch?v=vhu1_udQ4ys",
             "percent":100,
             "hz":120
          },
          {
             "user":"WaterArch",
-            "link":"https://youtu.be/eexSVuRcC98",
+            "link":"https://www.youtube.com/watch?v=eexSVuRcC98",
             "percent":100,
             "hz":60
          },
@@ -52,7 +52,7 @@
          },
          {
             "user":"Kxi",
-            "link":"https://youtu.be/xTunBZ2ZMEM",
+            "link":"https://www.youtube.com/watch?v=xTunBZ2ZMEM",
             "percent":100,
             "hz":240
          },
@@ -64,7 +64,7 @@
          },
          {
             "user":"Minotaur256",
-            "link":"https://youtu.be/J0cLmtZuy60",
+            "link":"https://www.youtube.com/watch?v=J0cLmtZuy60",
             "percent":100,
             "hz":240
          },
@@ -88,13 +88,13 @@
          },
          {
             "user":"MirrorGD",
-            "link":"https://youtu.be/l4RxlQgNB6c",
+            "link":"https://www.youtube.com/watch?v=l4RxlQgNB6c",
             "percent":100,
             "hz":240
          },
          {
             "user":"vergit",
-            "link":"https://youtu.be/d4GTcSkWuQs",
+            "link":"https://www.youtube.com/watch?v=d4GTcSkWuQs",
             "percent":100,
             "hz":240
          },
@@ -106,7 +106,7 @@
          },
          {
             "user":"Menda",
-            "link":"https://youtu.be/IS98TMcx5FA",
+            "link":"https://www.youtube.com/watch?v=IS98TMcx5FA",
             "percent":100,
             "hz":60,
             "mobile":true
@@ -137,19 +137,19 @@
          },
          {
             "user":"Semify",
-            "link":"https://youtu.be/fFs3LrU8qG4",
+            "link":"https://www.youtube.com/watch?v=fFs3LrU8qG4",
             "percent":100,
             "hz":240
                       },
          {
             "user":"Blizzard",
-            "link":"https://youtu.be/iy8NEELB5FI",
+            "link":"https://www.youtube.com/watch?v=iy8NEELB5FI",
             "percent":100,
             "hz":144
          },
          {
             "user":"Veepo",
-            "link":"https://youtu.be/JrX0VaFhmjA",
+            "link":"https://www.youtube.com/watch?v=JrX0VaFhmjA",
             "percent":100,
             "hz":240
          },

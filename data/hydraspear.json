@@ -4,7 +4,7 @@
     "author": "space34",
     "creators": ["space34"],
     "verifier": "TurboFlash",
-    "verification": "https://youtu.be/ZEdnEyYAXGU",
+    "verification": "https://www.youtube.com/watch?v=ZEdnEyYAXGU",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
@@ -16,19 +16,19 @@
          },
          {
             "user":"Vergit",
-            "link":"https://youtu.be/zhP1f0zl-XY",
+            "link":"https://www.youtube.com/watch?v=zhP1f0zl-XY",
             "percent":100,
             "hz":240
          },
          {
             "user":"Veepo",
-            "link":"https://youtu.be/XNn82Lh8doc",
+            "link":"https://www.youtube.com/watch?v=XNn82Lh8doc",
             "percent":100,
             "hz":240
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/_KzmbEHvZ1s",
+            "link":"https://www.youtube.com/watch?v=_KzmbEHvZ1s",
             "percent":100,
             "hz":120,
             "mobile":true

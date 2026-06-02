@@ -4,13 +4,13 @@
     "author": "LightingFlash",
     "creators": ["LightingFlash"],
     "verifier": "spnv",
-    "verification": "https://youtu.be/-ODaXP_YQxY",
+    "verification": "https://www.youtube.com/watch?v=-ODaXP_YQxY",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
                {
             "user":"BABAGD",
-            "link":"https://youtu.be/HVxAu-lnpWU",
+            "link":"https://www.youtube.com/watch?v=HVxAu-lnpWU",
             "percent":100,
             "hz":240
          },
@@ -22,7 +22,7 @@
          },
          {
             "user":"turboflash",
-            "link":"https://youtu.be/Rbxsg9K_u1w",
+            "link":"https://www.youtube.com/watch?v=Rbxsg9K_u1w",
             "percent":100,
             "hz":60
          }

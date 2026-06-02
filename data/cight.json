@@ -4,31 +4,31 @@
     "author": "Semify",
     "creators": ["Semify, Kirby"],
     "verifier": "Semify",
-    "verification": "https://youtu.be/CTI6SiiStRQ",
+    "verification": "https://www.youtube.com/watch?v=CTI6SiiStRQ",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
         {
             "user":"games",
-            "link":"https://youtu.be/ORL2FUVul8w",
+            "link":"https://www.youtube.com/watch?v=ORL2FUVul8w",
             "percent":100,
             "hz":144
          },
         {
             "user":"Void",
-            "link":"https://youtu.be/FpkvOnIsiIQ",
+            "link":"https://www.youtube.com/watch?v=FpkvOnIsiIQ",
             "percent":100,
             "hz":60
          },
          {
             "user":"Macaroni & Games",
-            "link":"https://youtu.be/xW_Eqr8Hmlw",
+            "link":"https://www.youtube.com/watch?v=xW_Eqr8Hmlw",
             "percent":100,
             "hz":165
          },
          {
             "user":"nik14k",
-            "link":"https://youtu.be/MYFFR0Srw_Q",
+            "link":"https://www.youtube.com/watch?v=MYFFR0Srw_Q",
             "percent":100,
             "hz":240
          },
@@ -40,13 +40,13 @@
          },
         {
             "user":"BABAGD",
-            "link":"https://youtu.be/p_svssDJUhk",
+            "link":"https://www.youtube.com/watch?v=p_svssDJUhk",
             "percent":100,
             "hz":240
          },
         {
             "user":"kdawguwu610ohye",
-            "link":"https://youtu.be/qC5V4slE4Wc",
+            "link":"https://www.youtube.com/watch?v=qC5V4slE4Wc",
             "percent":100,
             "hz":360
          }

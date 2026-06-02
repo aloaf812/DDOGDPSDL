@@ -4,13 +4,13 @@
     "author": "poulen",
     "creators": ["poulen"],
     "verifier": "Wooshify",
-    "verification": "https://youtu.be/X4EyroPri7k",
+    "verification": "https://www.youtube.com/watch?v=X4EyroPri7k",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
         {
             "user":"games",
-            "link":"https://youtu.be/QBmTQFxrgr0",
+            "link":"https://www.youtube.com/watch?v=QBmTQFxrgr0",
             "percent":100,
             "hz":144
          },

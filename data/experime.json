@@ -4,37 +4,37 @@
     "author": "QuixonicGD",
     "creators": ["QuixonicGD"],
     "verifier": "QuixonicGD",
-    "verification": "https://youtu.be/yGLwbUUMFfs",
+    "verification": "https://www.youtube.com/watch?v=yGLwbUUMFfs",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
         {
             "user":"TurboFlash",
-            "link":"https://youtu.be/ntCWrkWXlZg",
+            "link":"https://www.youtube.com/watch?v=ntCWrkWXlZg",
             "percent":100,
             "hz":60
         },
         {
             "user":"spnv",
-            "link":"https://youtu.be/1her-bsPXdo",
+            "link":"https://www.youtube.com/watch?v=1her-bsPXdo",
             "percent":100,
             "hz":240
          },
          {
             "user":"tostapanez",
-            "link":"https://youtu.be/pZ8r_C6ToY8",
+            "link":"https://www.youtube.com/watch?v=pZ8r_C6ToY8",
             "percent":100,
             "hz":144
          },
          {
             "user":"MirrorGD",
-            "link":"https://youtu.be/xNJANrsQIuM",
+            "link":"https://www.youtube.com/watch?v=xNJANrsQIuM",
             "percent":100,
             "hz":240
          },
          {
             "user":"JDPro",
-            "link":"https://youtu.be/k_glryEVHkc",
+            "link":"https://www.youtube.com/watch?v=k_glryEVHkc",
             "percent":100,
             "hz":90,
             "mobile": true
@@ -59,13 +59,13 @@
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/ng5q5P1JN_k",
+            "link":"https://www.youtube.com/watch?v=ng5q5P1JN_k",
             "percent":100,
             "hz":240
          },
          {
             "user":"ncz",
-            "link":"https://youtu.be/yztdBSBcLSI",
+            "link":"https://www.youtube.com/watch?v=yztdBSBcLSI",
             "percent":100,
             "hz":240
          }

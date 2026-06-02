@@ -4,7 +4,7 @@
     "author": "tostapanez",
     "creators": ["tostapanez"],
     "verifier": "tostapanez",
-    "verification": "https://youtu.be/47-bdvSuPGM",
+    "verification": "https://www.youtube.com/watch?v=47-bdvSuPGM",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
@@ -16,7 +16,7 @@
          },
          {
             "user":"games",
-            "link":"https://youtu.be/bsc1QFDnL2k",
+            "link":"https://www.youtube.com/watch?v=bsc1QFDnL2k",
             "percent":100,
             "hz":144
          },
@@ -28,7 +28,7 @@
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/rQrredlR904",
+            "link":"https://www.youtube.com/watch?v=rQrredlR904",
             "percent":100,
             "hz":120
          },

@@ -4,7 +4,7 @@
     "author": "QuixonicGD",
     "creators": ["QuixonicGD"],
     "verifier": "QuixonicGD",
-    "verification": "https://youtu.be/097F2PFQF4w",
+    "verification": "https://www.youtube.com/watch?v=097F2PFQF4w",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
@@ -22,13 +22,13 @@
          },
          {
             "user":"Vergit",
-            "link":"https://youtu.be/3VUAKWS2C-o",
+            "link":"https://www.youtube.com/watch?v=3VUAKWS2C-o",
             "percent":100,
             "hz":240
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/s_rJE6LnxTo",
+            "link":"https://www.youtube.com/watch?v=s_rJE6LnxTo",
             "percent":100,
             "hz":120,
             "mobile":true

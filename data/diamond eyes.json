@@ -4,13 +4,13 @@
     "author": "Kxi",
     "creators": ["Kxi"],
     "verifier": "Kxi",
-    "verification": "https://youtu.be/mR3ewRfRGII",
+    "verification": "https://www.youtube.com/watch?v=mR3ewRfRGII",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
             "user": "BABAGD",
-            "link":"https://youtu.be/P094cfi3tbo",
+            "link":"https://www.youtube.com/watch?v=P094cfi3tbo",
             "percent":100,
             "hz":240
         },
@@ -34,13 +34,13 @@
         },
         {
             "user":"fribble",
-            "link":"https://youtu.be/WHO7iEkbTXU",
+            "link":"https://www.youtube.com/watch?v=WHO7iEkbTXU",
             "percent":100,
             "hz":180
         },
         {
             "user":"kdawguwu610ohye",
-            "link":"https://youtu.be/KAYuknAv9r0",
+            "link":"https://www.youtube.com/watch?v=KAYuknAv9r0",
             "percent":100,
             "hz":360
         }

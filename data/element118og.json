@@ -35,20 +35,20 @@
          },
          {
             "user":"BABAGD",
-            "link":"https://youtu.be/ng5q5P1JN_k",
+            "link":"https://www.youtube.com/watch?v=ng5q5P1JN_k",
             "percent":100,
             "hz":240
          },
          {
             "user": "Menda",
-            "link": "https://youtu.be/4LS4NrSTH9k",
+            "link": "https://www.youtube.com/watch?v=4LS4NrSTH9k",
             "percent": 100,
             "hz": 60,
             "mobile": true
          },
          {
             "user": "Martdemon3",
-            "link": "https://youtu.be/WUvf6QXgNRI",
+            "link": "https://www.youtube.com/watch?v=WUvf6QXgNRI",
             "percent": 100,
             "hz": 144,
             "mobile": false
