@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Brecken",
+            "link": "https://www.youtube.com/watch?v=Q8zUWdk9UQE ",
+            "percent": 100,
+            "hz": 240
+      }
     ]
 }

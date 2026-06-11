@@ -32,6 +32,12 @@
             "percent":100,
             "hz":120,
             "mobile":true
+        },
+        {
+            "user":"facelessguy",
+            "link":"https://youtu.be/v5h9KXqoJVI",
+            "percent":100,
+            "hz":240
         }
     ]
 }

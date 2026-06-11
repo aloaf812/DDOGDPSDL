@@ -31,6 +31,12 @@
             "link":"https://www.youtube.com/watch?v=qn2R1sZtaC4",
             "percent":100,
             "hz":240
+        },
+        {
+            "user":"facelessguy",
+            "link":"https://youtu.be/KSazzgmuF40",
+            "percent":100,
+            "hz":240
         }
     ]
 }
