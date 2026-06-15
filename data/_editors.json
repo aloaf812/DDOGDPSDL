@@ -40,6 +40,11 @@
         "link": "https://www.youtube.com/@MilkoArkoos"
     },
     {
+        "role": "helper",
+        "name": "kdawg",
+        "link": "https://www.youtube.com/@Koller11"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
