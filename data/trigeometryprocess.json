@@ -18,6 +18,12 @@
             "link":"https://www.youtube.com/watch?v=HOwmhqBZikM",
             "percent":100,
             "hz":60
+         },
+        {
+            "user":"mBobaguard",
+            "link":"https://youtu.be/kNgdr0wcoVs",
+            "percent":100,
+            "hz":165
          }
     ]
 }
