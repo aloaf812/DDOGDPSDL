@@ -43,6 +43,12 @@
             "link":"https://www.youtube.com/watch?v=RZY7K5KYlQA",
             "percent":100,
             "hz":60
+         },
+        { 
+            "user":"Happi",
+            "link":"https://youtu.be/eopEY5LKic4",
+            "percent":100,
+            "hz":240
          }
     ]
 }
