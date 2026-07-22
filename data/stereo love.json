@@ -50,6 +50,12 @@
             "link":"https://www.youtube.com/watch?v=UYbQlX0EV1Q",
             "percent":100,
             "hz":165
+         },
+         { 
+            "user":"Ncz",
+            "link":"https://youtu.be/7JwTji_n82E",
+            "percent":100,
+            "hz":240
          }
     ]
 }
