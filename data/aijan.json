@@ -37,6 +37,12 @@
             "link":"https://www.youtube.com/watch?v=mggpzuu70yI",
             "percent":100,
             "hz":360
+         },
+         {
+            "user":"SnowsOfEverest",
+            "link":"https://youtu.be/o4XF5NsDavo",
+            "percent":100,
+            "hz":240
          }
     ]
 }
