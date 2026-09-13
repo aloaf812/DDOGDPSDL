@@ -75,15 +75,8 @@ export async function fetchLeaderboard() {
         });
 
         // Records
-level.records.forEach((record) => {
+        level.records.forEach((record) => {
             const user = Object.keys(scoreMap).find(
-
-    const user = Object.keys(scoreMap).find(
-        (u) => u.toLowerCase() === record.user.toLowerCase(),
-    ) || record.user;
-
-    // rest of your code...
-});
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
             scoreMap[user] ??= {
