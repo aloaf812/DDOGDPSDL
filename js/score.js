@@ -24,7 +24,7 @@ export function score(rank, percent, minPercent) {
 
     // From rank 76+, only 100% counts
     if (rank > 75 && percent < 100) {
-        return 0;
+        return 10;
     }
 
     // Clamp rank to [1, maxRank-1]
