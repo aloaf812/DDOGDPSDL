@@ -75,8 +75,21 @@ export async function fetchLeaderboard() {
         });
 
         // Records
-        level.records.forEach((record) => {
-            const user = Object.keys(scoreMap).find(
+level.records.forEach((record, index) => {
+    if (typeof record.user !== "string") {
+        console.error(
+            `Missing "user" in ${level.path}, record ${index}`,
+            record
+        );
+        return;
+    }
+
+    const user = Object.keys(scoreMap).find(
+        (u) => u.toLowerCase() === record.user.toLowerCase(),
+    ) || record.user;
+
+    // rest of your code...
+});
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
             scoreMap[user] ??= {
