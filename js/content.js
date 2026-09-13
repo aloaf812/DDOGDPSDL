@@ -75,14 +75,8 @@ export async function fetchLeaderboard() {
         });
 
         // Records
-level.records.forEach((record, index) => {
-    if (typeof record.user !== "string") {
-        console.error(
-            `Missing "user" in ${level.path}, record ${index}`,
-            record
-        );
-        return;
-    }
+level.records.forEach((record) => {
+            const user = Object.keys(scoreMap).find(
 
     const user = Object.keys(scoreMap).find(
         (u) => u.toLowerCase() === record.user.toLowerCase(),
