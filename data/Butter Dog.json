@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+	    "user":"Menda",
+	    "link":"https://youtu.be/Ngh8B3lgnBc?si=Q0DSYfg8XtgfjYcg",
+	    "percent":100,
+	    "hz":180
+	}
     ]
 }
