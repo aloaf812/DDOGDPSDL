@@ -13,6 +13,18 @@
             "link":"https://www.youtube.com/watch?v=1mpY62g3D2k",
             "percent":100,
             "hz":240
+         },
+        {
+            "user":"Minotaur256",
+            "link":"https://youtu.be/BJO5vNI4CQM",
+            "percent":100,
+            "hz":144
+         },
+        {
+            "user":"TurboFlash",
+            "link":"https://youtu.be/PLoSXkmUn5g",
+            "percent":100,
+            "hz":240
          }
     ]
 }
