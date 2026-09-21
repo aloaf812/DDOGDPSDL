@@ -37,6 +37,12 @@
             "link":"https://www.youtube.com/watch?v=NVm_1WXp14w",
             "percent":100,
             "hz":360
+         },
+       {
+            "user":"Minotaur256",
+            "link":"https://youtu.be/4RjNawlpAvA",
+            "percent":100,
+            "hz":144
          }
     ]
 }
