@@ -50,11 +50,17 @@
             "percent":100,
             "hz":165
          },
-        {
+         {
             "user":"Bahgel",
             "link":"https://www.youtube.com/watch?v=f7hZ-OUk0FQ",
             "percent":100,
             "hz":360
-        }
+         },
+         {
+            "user":"Beli9002",
+            "link":"https://www.youtube.com/watch?v=ppyqReTAmxA&t=234s",
+            "percent":100,
+            "hz":144
+         }
     ]
 }

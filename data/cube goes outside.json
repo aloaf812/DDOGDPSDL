@@ -8,11 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-         {
+        {
             "user":"jrpresley08",
             "link":"https://www.youtube.com/watch?v=CaU2ysoZ4M0",
             "percent":100,
             "hz":120
-         }
+        },
+        {
+            "user":"Beli9002",
+            "link":"https://www.youtube.com/watch?v=ppyqReTAmxA&t=148s",
+            "percent":100,
+            "hz":144
+        }
     ]
 }
