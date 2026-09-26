@@ -55,6 +55,12 @@
             "link":"https://www.youtube.com/watch?v=jc_oqTZFq4c",
             "percent":100,
             "hz":240
+         },
+        {
+            "user":"Solar Mist",
+            "link":"https://youtu.be/JW_VSthO3zM?si=WU2ghRgjPG7BsgX_&t=394",
+            "percent":100,
+            "hz":360
          }
     ]
 }
