@@ -24,6 +24,12 @@
             "link":"https://www.youtube.com/watch?v=X3gDSrae8dw",
             "percent":100,
             "hz":144
+        },
+        {
+            "user":"Jitz",
+            "link":"https://youtu.be/QLjiRi0pq1Q",
+            "percent":100,
+            "hz":60
         }
     ]
 }
