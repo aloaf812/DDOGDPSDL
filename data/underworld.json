@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/KNbVOKa5gJw",
     "percentToQualify": 100,
     "records": [
+        {
+            "user":"MilkoArkoos",
+            "link":"https://youtu.be/q9mU6OM5p_E",
+            "percent":100,
+            "hz":120
+         }
     ]
 }
